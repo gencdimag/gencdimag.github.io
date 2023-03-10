@@ -1,2 +1,1 @@
-# gdm.github.io
-gdm.github.io
+# [gencdimag.github.io](https://gencdimag.github.io)
