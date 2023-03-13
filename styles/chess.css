@@ -13,7 +13,7 @@
     --whitesmoke: rgb(225, 225, 225);
     --red: #dd4a4a;
     --red-hover: #ff596f;
-    --stockfish: #00798C;
+    --stockfish: #30638E;
     --chess-bg: #ced1d4;
     
     /*Low Opacity*/
@@ -471,8 +471,8 @@ footer {
     background-attachment: scroll;
     background-position: 0% 0%;
     position: fixed;
-    width: 81%;
     text-align: right;
+    right: 18rem;
     bottom: 0pt;
 }
 
