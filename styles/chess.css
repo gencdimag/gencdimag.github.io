@@ -252,6 +252,14 @@ header .ncal a {
     text-align: right;
 }
 
+.oRMenu{
+    display: block;
+    position: absolute;
+    margin-top: -2.5vh;
+    padding-left: 14.25rem;
+    text-align: right;
+}
+
 .sidenav li{
     padding: 0px 0px 0px 10px;
     font-size: x-large;
@@ -261,6 +269,12 @@ header .ncal a {
     color: var(--sidebar-color);
 }
 .sidenav .resultsMenu{
+    color: var(--sidebar-color);
+}
+.sidenav .oChampName{
+    color: var(--sidebar-color);
+}
+.sidenav .oRMenu{
     color: var(--sidebar-color);
 }
 

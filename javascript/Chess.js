@@ -2,7 +2,7 @@ window.onload = logNamesandPoints;
 window.onafterprint = logNamesandPoints;
 
 function logNamesandPoints(){
-    const sheetId = '1lIxkHORiR1LZuLCI7yY0kWw0XgMztvAR9iQ2KnSiY6E';
+    const sheetId = '1c9xB4pkQygq_sWX8Oa0kEgbmREDuUUUfSvpJLNJoIf0';
     const base = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?`;
     const sheetName = 'NAPData';
     const query = encodeURIComponent('Select *');
