@@ -822,6 +822,16 @@ footer {
     .active{visibility: hidden;}
     .activeflex{visibility: hidden;}
 
+    .sm-footer{
+        z-index: 15;
+        font-size: 30px;
+        background-attachment: scroll;
+        background-position: 0% 0%;
+        position: fixed;
+        text-align: right;
+        right: 10rem;
+        bottom: 0pt;
+    }
 
     .dropbtn {
         background-color: var(--alphazero);
